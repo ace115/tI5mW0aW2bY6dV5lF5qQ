@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
-http://10.0.0.1:4022/udp/235.254.199.51:7980
+http://10.0.0.1:4022/udp/235.254.198.147:1866
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
 http://10.0.0.1:4022/udp/235.254.199.52:7980
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
@@ -128,7 +128,7 @@ http://10.0.0.1:4022/udp/235.254.199.70:7980
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="卫视频道",康巴卫视
 
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="卫视频道",CETV-1
-
+http://10.0.0.1:4022/udp/235.254.198.196:7980
 #EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="卫视频道",CETV-2
 
 #EXTINF:-1 tvg-name="中国教育3台" tvg-logo="https://live.fanmingming.com/tv/CETV3.png" group-title="卫视频道",CETV-3
@@ -140,7 +140,6 @@ http://10.0.0.1:4022/udp/235.254.196.157:7980
 http://10.0.0.1:4022/udp/235.254.198.121:1760
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="卫视频道",生活时尚
 http://10.0.0.1:4022/udp/235.254.196.160:7980
-#EXTINF:-1 tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/全纪实.png" group-title="卫视频道",全纪实
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="卫视频道",都市剧场
 http://10.0.0.1:4022/udp/235.254.196.151:7980
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="卫视频道",欢笑剧场
@@ -154,9 +153,9 @@ http://10.0.0.1:4022/udp/235.254.196.150:7980
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="卫视频道",金鹰卡通
 
 #EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="卫视频道",茶友频道
-
+http://10.0.0.1:4022/udp/235.254.198.198:7980
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="卫视频道",快乐垂钓
-
+http://10.0.0.1:4022/udp/235.254.198.191:7980
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="卫视频道",嘉佳卡通
 
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="卫视频道",动漫秀场
@@ -269,31 +268,28 @@ http://10.0.0.1:4022/udp/235.254.196.154:7980
 
 #EXTINF:-1 tvg-name="内蒙古蒙语文化" tvg-logo="https://live.fanmingming.com/tv/内蒙古蒙语文化.png" group-title="地方频道",内蒙古蒙语文化
 
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="地方频道",重庆卫视
 http://10.0.0.1:4022/udp/235.254.198.173:7980
-#EXTINF:-1 tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="重庆频道",重庆新闻
+#EXTINF:-1 tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="地方频道",重庆新闻
 http://10.0.0.1:4022/udp/235.254.197.199:7980
-#EXTINF:-1 tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="重庆频道",重庆影视
+#EXTINF:-1 tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="地方频道",重庆影视
 http://10.0.0.1:4022/udp/235.254.198.180:7980
-#EXTINF:-1 tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="重庆频道",重庆社会与法
+#EXTINF:-1 tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="地方频道",重庆社会与法
 http://10.0.0.1:4022/udp/235.254.198.181:7980
-#EXTINF:-1 tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="重庆频道",重庆时尚生活
+#EXTINF:-1 tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="地方频道",重庆时尚生活
 http://10.0.0.1:4022/udp/235.254.198.182:7980
-#EXTINF:-1 tvg-name="重庆文体娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆文体娱乐.png" group-title="重庆频道",重庆文体娱乐
+#EXTINF:-1 tvg-name="重庆文体娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆文体娱乐.png" group-title="地方频道",重庆文体娱乐
 http://10.0.0.1:4022/udp/235.254.198.187:7980
-#EXTINF:-1 tvg-name="重庆新农村" tvg-logo="https://live.fanmingming.com/tv/重庆新农村.png" group-title="重庆频道",重庆新农村
+#EXTINF:-1 tvg-name="重庆新农村" tvg-logo="https://live.fanmingming.com/tv/重庆新农村.png" group-title="地方频道",重庆新农村
 http://10.0.0.1:4022/udp/235.254.198.186:7980
-#EXTINF:-1 tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="重庆频道",重庆少儿
+#EXTINF:-1 tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="地方频道",重庆少儿
 http://10.0.0.1:4022/udp/235.254.198.166:7980
-#EXTINF:-1 tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="重庆频道",重庆科教
+#EXTINF:-1 tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="地方频道",重庆科教
 http://10.0.0.1:4022/udp/235.254.199.188:7980
-#EXTINF:-1 tvg-name="重广融媒" tvg-logo="https://live.fanmingming.com/tv/重广融媒.png" group-title="重庆频道",重广融媒
-http://10.0.0.1:4022/udp/235.254.197.114:7980
 #EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://live.fanmingming.com/tv/重庆汽摩.png" group-title="地方频道",重庆汽摩
 http://10.0.0.1:4022/udp/235.254.198.169:7980
-#EXTINF:-1 tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="重庆频道",重庆移动
+#EXTINF:-1 tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="地方频道",重庆移动
 http://10.0.0.1:4022/udp/235.254.198.170:7980
-
 #EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="地方频道",海南少儿
 
 #EXTINF:-1 tvg-name="海南文旅" tvg-logo="https://live.fanmingming.com/tv/海南文旅.png" group-title="地方频道",海南文旅
@@ -313,9 +309,7 @@ http://10.0.0.1:4022/udp/235.254.198.170:7980
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视频道",CGTN西语
 
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
-
-
-
+-------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="卫视频道",求索纪录
 http://10.0.0.1:4022/udp/235.254.199.251:7980
 #EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://live.fanmingming.com/tv/精彩影视.png" group-title="卫视频道",精彩影视
@@ -323,20 +317,22 @@ http://10.0.0.1:4022/udp/235.254.199.250:7980
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="卫视频道",乐游
 http://10.0.0.1:4022/udp/235.254.196.153:7980
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="卫视频道",魅力足球
-http://10.0.0.1:4022/udp/235.254.197.173:7980
-#EXTINF:-1 tvg-name="开州综合" tvg-logo="" group-title="重庆频道",开州综合
-http://10.0.0.1:4022/udp/235.254.198.203:7980
-#EXTINF:-1 tvg-name="秀山综合" tvg-logo="" group-title="重庆频道",秀山综合
-http://10.0.0.1:4022/udp/235.254.198.239:7980
-#EXTINF:-1 tvg-name="黔江综合" tvg-logo="" group-title="重庆频道",黔江综合
-http://10.0.0.1:4022/udp/235.254.198.239:7980
+http://10.0.0.1:4022/udp/235.254.196.173:7980
 #EXTINF:-1 tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视频道",早期教育
 http://10.0.0.1:4022/udp/235.254.196.112:7980
+--------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-name="重广融媒" tvg-logo="https://live.fanmingming.com/tv/重广融媒.png" group-title="地方频道",重广融媒
+http://10.0.0.1:4022/udp/235.254.196.218:1146
+#EXTINF:-1 tvg-name="开州综合" tvg-logo="" group-title="地方频道",开州综合
+http://10.0.0.1:4022/udp/235.254.199.203:7980
+#EXTINF:-1 tvg-name="黔江综合" tvg-logo="" group-title="地方频道",黔江综合
+http://10.0.0.1:4022/udp/235.254.199.233:7980
+#EXTINF:-1 tvg-name="秀山综合" tvg-logo="" group-title="地方频道",秀山综合
+http://10.0.0.1:4022/udp/235.254.199.239:7980
 #EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="地方频道",河南梨园
 http://10.0.0.1:4022/udp/235.254.196.112:7980
-
-
-
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="地方频道",山东教育
+http://10.0.0.1:4022/udp/235.254.199.161:7980
 
 
 
