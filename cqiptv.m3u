@@ -309,7 +309,6 @@ http://10.0.0.1:4022/udp/235.254.198.170:7980
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视频道",CGTN西语
 
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
--------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="卫视频道",求索纪录
 http://10.0.0.1:4022/udp/235.254.199.251:7980
 #EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://live.fanmingming.com/tv/精彩影视.png" group-title="卫视频道",精彩影视
@@ -320,7 +319,6 @@ http://10.0.0.1:4022/udp/235.254.196.153:7980
 http://10.0.0.1:4022/udp/235.254.196.173:7980
 #EXTINF:-1 tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="卫视频道",早期教育
 http://10.0.0.1:4022/udp/235.254.196.112:7980
---------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-name="重广融媒" tvg-logo="https://live.fanmingming.com/tv/重广融媒.png" group-title="地方频道",重广融媒
 http://10.0.0.1:4022/udp/235.254.196.218:1146
 #EXTINF:-1 tvg-name="开州综合" tvg-logo="" group-title="地方频道",开州综合
