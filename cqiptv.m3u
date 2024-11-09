@@ -63,7 +63,7 @@ http://10.0.0.1:4022/udp/235.254.199.62:7980
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视频道",东方卫视
 http://10.0.0.1:4022/udp/235.254.199.73:7980
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视频道",四川卫视
-http://192.168.31.1:8887/udp/235.254.198.175:7980
+http://10.0.0.1:4022/udp/235.254.198.175:7980
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视频道",天津卫视
 http://10.0.0.1:4022/udp/235.254.199.67:7980
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
@@ -158,7 +158,8 @@ http://10.0.0.1:4022/udp/235.254.196.150:7980
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="卫视频道",金鹰纪实
 
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="卫视频道",金鹰卡通
-
+#EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="卫视频道",梨园频道
+http://10.0.0.1:4022/udp/235.254.196.112:7980
 #EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="卫视频道",茶友频道
 http://10.0.0.1:4022/udp/235.254.198.198:7980
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="卫视频道",快乐垂钓
@@ -186,6 +187,7 @@ http://10.0.0.1:4022/udp/235.254.196.159:7980
 #EXTINF:-1 tvg-name="置业" tvg-logo="https://live.fanmingming.com/tv/置业频道.png" group-title="卫视频道",置业频道
 
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="卫视频道",中国天气
+http://10.0.0.1:4022/udp/235.254.196.112:7980
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="卫视频道",求索纪录
 http://10.0.0.1:4022/udp/235.254.199.251:7980
 #EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://live.fanmingming.com/tv/精彩影视.png" group-title="卫视频道",精彩影视
@@ -321,8 +323,6 @@ http://192.168.31.1:8887/udp/235.254.196.154:7980
 #EXTINF:-1 tvg-name="海南公共" tvg-logo="https://live.fanmingming.com/tv/海南公共.png" group-title="地方频道",海南公共
 
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://live.fanmingming.com/tv/海南经济.png" group-title="地方频道",海南经济
-#EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="地方频道",河南梨园
-http://10.0.0.1:4022/udp/235.254.196.112:7980
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="地方频道",山东教育
 http://10.0.0.1:4022/udp/235.254.199.161:7980
 
